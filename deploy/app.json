@@ -1,0 +1,15 @@
+{
+  "name": "Gail Borden Public Library",
+  "slug": "gail-borden",
+  "easId": "1daa93e9-15c3-4447-bc21-b7e11d4066d4",
+  "reverseDns": "org.aspendiscovery.gailborden",
+  "discoveryUrl": "https://gailborden.aspendiscovery.org/",
+  "greenhouseUrl": "https://gailborden.aspendiscovery.org/",
+  "libraryId": "1",
+  "themeId": "1",
+  "background": "#188252",
+  "sentryProject": "aspen-lida-gail-borden",
+  "sentryDsn": "https://3cd0ca1462ba96f8b16d1eac2661d2d7@o994439.ingest.us.sentry.io/4507216125493248",
+  "ascAppId": "6502454574",
+  "logLevel": "0"
+}
